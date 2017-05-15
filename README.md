@@ -1,5 +1,5 @@
 # Base16 Vis
-Base16 for Vis
+Base16 for [Vis](https://github.com/martanne/vis), a vim-like text editor.
 
 ## [base16-3024](https://raw.githubusercontent.com/pshevtsov/base16-vis/master/themes/base16-3024.lua)
 ![base16-3024](https://raw.githubusercontent.com/pshevtsov/base16-vis/master/images/base16-3024.png)
